@@ -1,0 +1,31 @@
+_repo: L-alouette-du-casque--13-ou-Victoria-la-m-re-des-camps_16851
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Marie Joseph
+    - Sue, Eugene
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16851'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: L'alouette du casque; ou, Victoria, la mère des camps
+url: http://www.gutenberg.org/ebooks/16851
